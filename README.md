@@ -1,2 +1,2 @@
-# uvce-tetsapp
+# uvce-testapp
 Simple App
